@@ -23,6 +23,19 @@
       </stringQualifiers>
     </type>
   </attributes>
+  <attributes uuid="25ed903b-213b-45fb-a212-d8e0da6fa8cb">
+    <name>АлександрСап</name>
+    <synonym>
+      <key>ru</key>
+      <value>АлександрСап</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+  </attributes>
   <forms uuid="ba25d50b-2ad6-4960-bdc3-2131a2f71756">
     <name>Форма</name>
     <synonym>
