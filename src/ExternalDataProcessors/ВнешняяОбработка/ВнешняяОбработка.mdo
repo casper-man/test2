@@ -49,6 +49,19 @@
       </stringQualifiers>
     </type>
   </attributes>
+  <attributes uuid="1a44225e-a741-443d-988c-4f0c771b4fb5">
+    <name>Глеб</name>
+    <synonym>
+      <key>ru</key>
+      <value>Глеб</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+  </attributes>
   <forms uuid="ba25d50b-2ad6-4960-bdc3-2131a2f71756">
     <name>Форма</name>
     <synonym>
