@@ -36,6 +36,19 @@
       </stringQualifiers>
     </type>
   </attributes>
+  <attributes uuid="6ae2f698-0f40-4519-8989-25ba46ee0e6f">
+    <name>Рома</name>
+    <synonym>
+      <key>ru</key>
+      <value>Рома</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+  </attributes>
   <forms uuid="ba25d50b-2ad6-4960-bdc3-2131a2f71756">
     <name>Форма</name>
     <synonym>
