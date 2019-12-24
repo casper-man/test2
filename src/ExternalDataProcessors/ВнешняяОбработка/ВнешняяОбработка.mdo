@@ -62,6 +62,19 @@
       </stringQualifiers>
     </type>
   </attributes>
+  <attributes uuid="1dd3502c-73d8-4c34-8e58-4b6a5d121a9b">
+    <name>Макс</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макс</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+  </attributes>
   <forms uuid="ba25d50b-2ad6-4960-bdc3-2131a2f71756">
     <name>Форма</name>
     <synonym>
