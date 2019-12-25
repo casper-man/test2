@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="405c2aa6-b634-44e2-8334-422210fa36d7">
+  <producedTypes>
+    <objectType typeId="61028f6c-660c-4639-82d8-8407ab9e4dba" valueTypeId="6471fb41-846a-4aa4-bd0e-a08510529827"/>
+  </producedTypes>
+  <name>ver</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ver</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="ee7f0467-68cb-46a8-8a65-cca13a0b01fa"/>
+  <defaultForm>ExternalDataProcessor.ver.Form.Форма</defaultForm>
+  <attributes uuid="a3213347-b443-4194-a16d-b5dc7da2825a">
+    <name>ИмяФайла</name>
+    <synonym>
+      <key>ru</key>
+      <value>Имя файла</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="f497c489-ab9e-466a-8a36-42a1288237ad">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
